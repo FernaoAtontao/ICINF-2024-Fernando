@@ -1,6 +1,3 @@
-#GUIA RÁPIDA BUCLESS/CICLOS EN PYTHON
-#Docente: Victor Saldivia Vera - Institución: Universidad de Los Lagos
-
 #Declarando dos tuplas (también se puede hacer sin parentesis)
 t = 1, 2, 3
 tuplita = "Pedrito", "Tito", "Andre", "Barry"

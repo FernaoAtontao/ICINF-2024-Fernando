@@ -1,6 +1,3 @@
-"""GUIA RÁPIDA TIPOS DE DATOS EN PYTHON
-Docente: Victor Saldivia Vera - Institución: Universidad de Los Lagos"""
-
 #01-DATOS DE TIPO NÚMERICO
 edad = 29 #entero
 estatura = 1.71 #real

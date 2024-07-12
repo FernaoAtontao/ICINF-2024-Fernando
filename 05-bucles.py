@@ -1,6 +1,3 @@
-#GUIA RÁPIDA BUCLESS/CICLOS EN PYTHON
-#Docente: Victor Saldivia Vera - Institución: Universidad de Los Lagos
-
 from colorama import init, Fore
 init(autoreset=True)
 

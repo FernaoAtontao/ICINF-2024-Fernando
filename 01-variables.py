@@ -1,24 +1,21 @@
-"""GUIA RÁPIDA: CONOCIENDO LAS VARIABLES EN PYTHON - 10 DE ABRIL 2023
-  Docente: Victor Saldivia Vera - Institución: Universidad de Los Lagos"""
-
 #ESTE UN COMENTARIO DE UNA LINEA
 """ ESTE 
 ES UN COMENTARIO 
 MULTILINEA """
 
 #Un simple print
-print("Hola soy Constanza!")
+print("Hola soy Fernando!")
 
 #01-DECLARANDO VARIABLES DE TIPO CADENA DE TEXTO
-nombre = "Constanza"
-name = "Victor"
+nombre = "Andres"
+name = "Fernando"
 
 #02-IMPRESION DE UNA VARIABLE
 print(name)
 print("Hola soy",name)
 
 #Declarando una tercera variable de tipo númerico
-edad = 29
+edad = 19
 
 #03-IMPRESION DE TEXTO + VARIABLE (IMPRESIÓN VARIABLE EDAD)
 print("Mi edad es de", edad)

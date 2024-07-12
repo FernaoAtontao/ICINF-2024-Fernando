@@ -1,7 +1,3 @@
-#GUIA RÁPIDA BUCLESS/CICLOS EN PYTHON
-#Docente: Victor Saldivia Vera - Institución: Universidad de Los Lagos
-
-
 #01-DECLARANDO LA PRIMERA FUNCIÓN
 print("################## 01-DECLARANDO UNA FUNCIÓN SIMPLE ##################")
 

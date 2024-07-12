@@ -1,6 +1,3 @@
-#GUIA RÁPIDA DE OPERADORES EN PYTHON
-#Docente: Victor Saldivia Vera - Institución: Universidad de Los Lagos
-
 #01-OPERADORES ARITMETICOS
 
 #Declarando variables de tipo entero
